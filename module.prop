@@ -4,3 +4,4 @@ version=V 5.7
 versionCode=20
 author= Kutu Moba
 description= X-BOOST AI For Gaming ( automatically changes the cpu governor to performance, disables thermal, and prioritizes applications when entering games. . . when exiting the game everything will return to default )
+updateJson=https://raw.githubusercontent.com/KutuMobaa/X-BOOST-AI_For_Gaming/main/update.json
