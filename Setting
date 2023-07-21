@@ -1,10 +1,10 @@
 #### SETTING
 
-- 1. Masuk Ke /storage/emulated/0/Android/obb Lalu Edit File xboost, Masukan Nama Lengkap Aplikasi Game. Contoh Jika Bermain Game Mobile Legends: com.mobile.legends
+- 1. Masuk Ke /storage/emulated/0/Android Lalu Edit File xboost, Masukan Nama Lengkap Aplikasi Game. Contoh Jika Bermain Game Mobile Legends: com.mobile.legends
 
 - 2. Jika File xboost Tidak Tersedia, Masukan Command Berikut Di Terminal Emulator Ataupun Termux:
 
-nohup su -c xboost > /dev/null &
+su -c xboost startxboost
 
 Keluar Dari Terminal Atau Termux Lalu Ulangi Langkah 1.
 
