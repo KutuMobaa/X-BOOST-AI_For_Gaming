@@ -4,7 +4,7 @@
 
 - 2. Jika File xboost Tidak Tersedia, Masukan Command Berikut Di Terminal Emulator Ataupun Termux:
 
-su -c xboost startxboost
+su -c startxboost
 
 Keluar Dari Terminal Atau Termux Lalu Ulangi Langkah 1.
 
