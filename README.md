@@ -9,5 +9,5 @@ jangan di gunakan, belum stabil
 
 # FOLLOW ME
 
-* [TELEGEAM](https://t.me/kutu_Moba57)
+* [TELEGRAM](https://t.me/kutu_Moba57)
 * [YOUTUBE](https://youtube.com/@KutuMoba)
