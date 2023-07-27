@@ -2,5 +2,12 @@
 Updater Module Magisk X-BOOST AI
 ###
 ```
-jangan di gunakan, beluk stabil
+jangan di gunakan, belum stabil
 ```
+####
+
+
+# FOLLOW ME
+
+* [TELEGEAM](https://t.me/kutu_Moba57)
+* [YOUTUBE](https://youtube.com/@KutuMoba)
