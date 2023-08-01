@@ -8,7 +8,7 @@ Updater Module Magisk X-BOOST AI
 - enjoy 
 ```
 ####
-[Download](https://github.com/KutuMobaa/X-BOOST-AI_For_Gaming/releases/download/X-BOOST_AI/X-BOOST.AI.zip)
+[Download](https://github.com/KutuMobaa/X-BOOST-AI_For_Gaming/releases/tag/X-BOOST_AI)
 
 # FOLLOW ME
 
