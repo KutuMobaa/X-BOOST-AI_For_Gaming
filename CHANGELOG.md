@@ -10,7 +10,7 @@ X-BOOST AI For ML V5.7
 
 
 * Hanya Suport Untuk Game Mobile Legends.
-* Download lalu extrak dan pilih Sesuai Governor Yang Dimiliki.
+* Download lalu extrak dan pilih game dan Governor Yang Dimiliki.
 
 Tes di :
 - poco m3
