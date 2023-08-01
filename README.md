@@ -2,10 +2,13 @@
 Updater Module Magisk X-BOOST AI
 ###
 ```
-jangan di gunakan, belum stabil
+- Download Lalu Extrak.
+- Pilih Sesuai Game Dan Governor Cpu Yang Di Miliki
+- Flash Dimagisk Manager, Reboot System. Done !!!
+- enjoy 
 ```
 ####
-
+[Download](https://github.com/KutuMobaa/X-BOOST-AI_For_Gaming/releases/download/X-BOOST_AI/X-BOOST.AI.zip)
 
 # FOLLOW ME
 
