@@ -1,5 +1,26 @@
 # X-BOOST AI For Gaming
 
+X-BOOST AI For GAMING V5.8
+
+- Unlock Grafik Game
+- Login game : auto cpu performance, disable thermal, kinerja boost, gms doze
+- keluar game : semua mode auto kembali ke dafault
+- perbaikan bug di versi 5.7 dimana beberapa kode tidak bekerja dengan baik
+
+
+* Download Lalu extrak dan Pilih Sesuai Game Dan Governor Yang Dimiliki.
+- interactive ke performance
+- schedutil ke performance 
+
+
+* Jika tertarik untuk menggunakan di game lain ataupun penambahan fitur lain, silahkan ajukan disini.
+
+* Root Only
+- Flash dan Reboot System. tunggu beberapa detik atau matikan & hidupkan layar agar module berjalan otomatis, enjoy 👌
+
+
+#
+
 X-BOOST AI For ML V5.7
 
 - Unlock Grafiks +120 Fps
