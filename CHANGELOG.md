@@ -13,7 +13,7 @@ X-BOOST AI For GAMING V5.8
 - schedutil ke performance 
 
 
-* Jika tertarik untuk menggunakan di game lain ataupun penambahan fitur lain, silahkan ajukan disini.
+* Jika tertarik untuk menggunakan di game lain ataupun penambahan fitur lain, silahkan ajukan [disini](https://t.me/kutu_Moba57)
 
 * Root Only
 - Flash dan Reboot System. tunggu beberapa detik atau matikan & hidupkan layar agar module berjalan otomatis, enjoy 👌
